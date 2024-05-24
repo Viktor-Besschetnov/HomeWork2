@@ -1,7 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        System.out.println("Домашнее задание 2");
+                System.out.println("Домашнее задание 2");
+
+        System.out.println("Задания 1");
 
         int dogs = 132;
         System.out.println(dogs);
